@@ -1,7 +1,7 @@
 import React from 'react'
 import "./header.css"
 import Button from '../component/Button'
-import "../component/newbtn"
+import "../component/Newbtn"
 import avatar from '../assets/avatar.png'
 import overlay from '../assets/overlay.svg'
 import chisom from '../assets/chisom.webp'
@@ -45,7 +45,7 @@ import palmpay from '../assets/palmpay.jpeg'
 import kuda from '../assets/Kuda-Bank.png'
 import opay from '../assets/opay.webp'
 import autocheck from '../assets/autocheck.png'
-import Newbtn from '../component/newbtn'
+import Newbtn from '../component/Newbtn'
 import BCamp from '../component/bCamp'
 import BootImg from './BootImg'
 import School1 from '../assets/school1.webp'
