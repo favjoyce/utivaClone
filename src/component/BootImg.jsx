@@ -1,5 +1,5 @@
 import React from 'react'
-import Newbtn from '../component/newbtn'
+import Newbtn from '../component/Newbtn'
 import "./header.css"
 
 

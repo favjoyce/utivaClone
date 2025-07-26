@@ -1,6 +1,6 @@
 import React from 'react'
 import "./header.css"
-import Newbtn from './newbtn'
+import Newbtn from './Newbtn'
 
 const BCamp = (
     {
