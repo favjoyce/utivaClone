@@ -816,3 +816,6 @@ header {
   flex-wrap: wrap;
 }
 
+@media screen and (max-width:490px){
+   
+}

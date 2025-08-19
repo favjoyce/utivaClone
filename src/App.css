@@ -1,1 +1,6 @@
 
+@media screen and (max-width:490px){
+   .seen{
+    display: none;
+   }
+}

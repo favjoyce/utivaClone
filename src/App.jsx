@@ -10,10 +10,13 @@ function App() {
   
 
   return (
-    <div>
-      <div>
+    <div >
+      <div className='seen'>
         <Header/>
         <Hero/>
+      </div>
+      <div>
+        <p>Kindly view with a PC or DESKTOP</p>
       </div>
     </div>
   )
